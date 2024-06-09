@@ -112,8 +112,8 @@ function App() {
           alt="Avatar"
         />
         <div>
-          <h1 className="text-3xl font-bold">Master Bus Compresion</h1>
-          <p className="text-sm text-gray-500 text-left">by Test User</p>
+          <h1 className="text-3xl font-bold">The Pwong</h1>
+          <p className="text-sm text-gray-500 text-left">by Kevin Avila</p>
         </div>
       </div>
       <div className="z-10 grid grid-cols-3 grid-rows-2 items-center justify-items-center gap-4">
