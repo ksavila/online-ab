@@ -1,9 +1,3 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  text-align: center;
-}
-
 body {
   background: radial-gradient(
       circle farthest-corner at center 250px,
