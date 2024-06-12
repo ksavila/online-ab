@@ -104,7 +104,7 @@ function App() {
 
 
   return (
-    <div className="mx-auto">
+    <div className="mx-auto max-w-screen-sm">
       <div className="flex items-left justify-left mt-4 mb-24">
         <img
           className="w-12 h-12 rounded-full mr-4"
@@ -116,7 +116,7 @@ function App() {
           <p className="text-sm text-gray-500 text-left">by Kevin Avila</p>
         </div>
       </div>
-      <div className="w-screen lg:w-[80svw] mx-0 lg:mx-auto z-10 grid grid-cols-3 grid-rows-2 items-center justify-items-center gap-4">
+      <div className="z-10 grid grid-cols-3 grid-rows-2 items-center justify-items-center gap-4">
         <div
           className={`w-48 rounded p-8 border border-gray-400 text-7xl font-bold ${isPlayingA ? 'opacity-100' : 'opacity-25'
             } flex flex-col items-center justify-between`}
