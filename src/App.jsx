@@ -112,13 +112,13 @@ function App() {
           alt="Avatar"
         />
         <div>
-          <h1 className="text-3xl font-bold">The Pwong</h1>
+          <h1 className="text-3xl font-bold">Remix</h1>
           <p className="text-sm text-gray-500 text-left">by Kevin Avila</p>
         </div>
       </div>
       <div className="z-10 grid grid-cols-3 grid-rows-2 items-center justify-items-center gap-4">
         <div
-          className={`w-48 rounded p-8 border border-gray-400 text-7xl font-bold ${isPlayingA ? 'opacity-100' : 'opacity-25'
+          className={`z-10 w-48 rounded p-8 border border-gray-400 text-7xl font-bold ${isPlayingA ? 'opacity-100' : 'opacity-25'
             } flex flex-col items-center justify-between`}
         >
           <div className='p-4'>A</div>
@@ -144,7 +144,7 @@ function App() {
           ></button>
         </div>
         <div
-          className={`w-48 rounded p-8 border border-gray-400 text-7xl font-bold ${!isPlayingA ? 'opacity-100' : 'opacity-25'
+          className={`z-10 w-48 rounded p-8 border border-gray-400 text-7xl font-bold ${!isPlayingA ? 'opacity-100' : 'opacity-25'
             } flex flex-col items-center justify-between`}
         >
           <div className='p-4'>B</div>
