@@ -113,7 +113,7 @@ function App() {
         />
         <div>
           <h1 className="text-3xl font-bold">Remix</h1>
-          <p className="text-sm text-gray-500 text-left">by Kevin Avila</p>
+          <p className="text-sm text-gray-500 text-left">Now with less harshness!</p>
         </div>
       </div>
       <div className="z-10 grid grid-cols-3 grid-rows-2 items-center justify-items-center gap-4">
