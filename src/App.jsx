@@ -418,8 +418,8 @@ function App() {
               alt="Avatar"
             />
             <div>
-              <h1 className="text-3xl font-bold">Remix</h1>
-              <p className="text-sm text-gray-500 text-left">Now with less harshness!</p>
+              <h1 className="text-3xl font-bold">Blinded in MIDI</h1>
+              <p className="text-sm text-gray-500 text-left">On iPhone and don't hear anything? Try turning off silent mode!</p>
             </div>
           </div>
           
