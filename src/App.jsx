@@ -418,7 +418,7 @@ function App() {
               alt="Avatar"
             />
             <div>
-              <h1 className="text-3xl font-bold">Blinded in MIDI</h1>
+              <h1 className="text-3xl font-bold text-left">Blinded in MIDI</h1>
               <p className="text-sm text-gray-500 text-left">On iPhone and don't hear anything? Try turning off silent mode!</p>
             </div>
           </div>
