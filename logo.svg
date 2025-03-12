@@ -1,0 +1,18 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle with Gradient -->
+  <circle cx="32" cy="32" r="28" fill="#161b1d" stroke="#3b82f6" stroke-width="6"/>
+  
+  <!-- Simple Division Line -->
+  <path d="M32 8V56" stroke="#808080" stroke-width="4"  stroke-dasharray="2 2"/>
+  
+  <!-- Center Circle -->
+  <circle cx="32" cy="32" r="8" stroke="#3b82f6" stroke-width="6"/>
+  
+  <!-- Definitions -->
+  <defs>
+    <linearGradient id="discGradient" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3182CE"/>
+      <stop offset="1" stop-color="#805AD5"/>
+    </linearGradient>
+  </defs>
+</svg>
